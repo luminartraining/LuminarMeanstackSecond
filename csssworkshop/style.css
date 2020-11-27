@@ -1,0 +1,71 @@
+/* tagname or id or classname{
+    
+    property:value;
+}*/
+
+
+body{
+
+background-image: url("csklogo.jpeg");
+background-size: cover;
+
+
+}
+div h3{
+    text-align: center;
+}
+
+h1{
+
+    color: brown;
+    text-align: center;
+}
+
+#team{
+    color:rgb(40, 148, 146)
+
+}
+
+
+/* aligning text center inside div */
+div{
+
+    
+
+border-style: solid;
+border-color: darkolivegreen;
+border-width: 5px;
+background-color:rgba(232, 214, 16,0.500);
+width: 50%;
+margin: auto;
+
+
+
+}
+
+
+#mi{
+    color: aqua;
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 5px;
+    background-color: rgba(7, 64, 187, 0.494);
+}
+
+.team{
+
+border-style: solid;
+border-color:blueviolet;
+border-width: 5px;
+background-color: crimson;
+
+
+
+
+}
+
+li{
+    margin-left:200px;
+}
+
+
